@@ -1,4 +1,3 @@
-# 2D-MOT-2015-eval
 Multiple Object Tracking Challenge
 ==================================
 ---- http://motchallenge.net -----
